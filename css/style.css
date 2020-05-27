@@ -51,7 +51,7 @@
 
 
 body {
-    font-family: "Poppins", sans-serif;
+    font-family: 'Anonymous Pro', monospace; 
     background:  black!important;
 }
     
@@ -628,7 +628,7 @@ body{
   height: calc(100vh - 8em);
   padding: 4em;
   color: rgba(29, 27, 27, 0.75);
-  font-family: 'Anonymous Pro', monospace;  
+  font-family: 'Anonymous Pro', monospace; 
   background-color: rgb(25,25,25);  
 }
 .line-1{
@@ -647,12 +647,12 @@ body{
 /* Animation */
 .anim-typewriter{
   animation: typewriter 4s steps(44) 1s 1 normal both,
-  blinkTextCursor 700ms steps(44) infinite normal;
+  blinkTextCursor 400ms steps(44) infinite normal;
              
 }
 @keyframes typewriter{
   from{width: 0;}
-  to{width: 12em;}
+  to{width: 11em;}
 }
 @keyframes blinkTextCursor{
   from{border-right-color: rgba(8, 8, 8, 0.75);}
