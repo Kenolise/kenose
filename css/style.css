@@ -1,6 +1,6 @@
 /*
    
-    Template Name : DevBlog - Personal Blog Template
+    Template Name : Codengine - Personal Blog Template
     Author : Kenose Team
     Website : http://www.Kenose.com/
     Support : http://www.Kenose.com/support/
@@ -652,7 +652,7 @@ body{
 }
 @keyframes typewriter{
   from{width: 0;}
-  to{width: 11em;}
+  to{width: 13em;}
 }
 @keyframes blinkTextCursor{
   from{border-right-color: rgba(8, 8, 8, 0.75);}
@@ -683,13 +683,13 @@ body{
     line-height: 30px;
     font-weight: 500;
     padding: 10px 0;
-    color: #8c8c8c;
+    color: #131212;
 }
 
 .blog-post p {
     font-size: 16px;
     line-height: 30px;
-    color: #696868;
+    color: #181717;
     font-weight: 300;
     letter-spacing: 0.8px;
     font-family: "Poppins", sans-serif;

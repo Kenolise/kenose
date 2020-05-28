@@ -1,6 +1,6 @@
 /*
    
-    Template Name : DevBlog - Personal Blog Template
+    Template Name : Codengine - Personal Blog Template
     Author : Kenose Team
     Website : http://www.Kenose.com/
     Support : http://www.Kenose.com/support/
